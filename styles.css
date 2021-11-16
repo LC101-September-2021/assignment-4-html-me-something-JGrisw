@@ -18,7 +18,7 @@ body {
   margin: 8px;
   width: 100%;
   max-width: 900px;
-  margin: 0 auto;
+
   background-image: url(images/background.jpg);
   background-attachment: fixed;
   display: block;
@@ -28,11 +28,11 @@ p {
   margin-right: 100px;
 }
 #testP {
-  color: black; //this could be green but i chose black
+  color: green;
 }
 
 #mainHeading {
-  color: black; // this is supposed to be red but i didnt like it so i chose black
+  color: red;
 }
 
 #Tower {
